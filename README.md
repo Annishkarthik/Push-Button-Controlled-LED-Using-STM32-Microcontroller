@@ -242,3 +242,6 @@ static void MX_GPIO_Init(void)
 /**
   * @brief  This function is executed i*
 ```
+Result
+
+Thus, the push button was successfully interfaced with the STM32 microcontroller, and the LED connected to PA5 was successfully controlled according to the push-button input on PC13.
